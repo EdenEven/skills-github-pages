@@ -1,24 +1,46 @@
-import React from 'react';
+# Entrakit LLC Market Research Platform
 
-const LandingPage = () => {
-  return (
-    <div className="min-h-screen bg-gray-900 text-gray-300 font-['Playfair Display'] p-8">
-      <div className="max-w-4xl mx-auto space-y-12 animate-slide-up">
-        <header className="space-y-4">
-          <h1 className="text-4xl font-medium">Features</h1>
-          <h2 className="text-3xl font-medium text-blue-400">
-            Supercharge Your Market Research with Entrakit LLC 🚀
-          </h2>
-          <p className="text-xl">
-            <strong>Unlock insights instantly for any product or business.</strong> Entrakit LLC transforms weeks of market research into seconds, empowering you to focus on execution and strategy.
-          </p>
-        </header>
+Real-time market insights powered by AI for data-driven business decisions.
 
-        
-  );
-};
+## Features
+- Instant market analysis
+- SWOT reports
+- Competitor insights
+- Customer persona creation
+- Growth opportunity identification
 
-export default LandingPage;--
+## Quick Start
+
+### Basic Plan - $119/month
+- Full market research access
+- Unlimited searches
+- Regular platform updates
+
+### Annual Plan - $1,299/year
+- Save $129 yearly
+- Priority support
+- Exclusive insights
+
+### Enterprise - $17,000/year
+- Custom features
+- Team access
+- 24/7 support
+
+## Sample Use Cases
+- Product launch research
+- Market positioning
+- Customer behavior analysis
+- Competition tracking
+- Growth strategy development
+
+## Contact
+- Support: support@wdtlmfo4ya.com
+- Sales: +1 (573)481-8762
+- Location: XXX Edmondson St. Sikeston Missouri
+
+[Get Started Free Trial](https://wdtlmfo4ya.com.com/trial)
 
 ---
 
+© 2024 Entrakit LLC. All rights reserved.
+[Privacy Policy](./privacy) | [Terms](./terms)
